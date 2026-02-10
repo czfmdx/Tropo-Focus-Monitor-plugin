@@ -1,6 +1,8 @@
 # Tropo-Focus-Monitor-plugin
 Plugin for FM-DX-WEBSERVER which monitors the status of improved tropo conditions with azimuth pointing based on realtime data from https://vhf.dxview.org/ 
 
+CURRENT RELEASE V1.0a (1.2.2026)
+
 SETTINGS COULD BE ADJUSTED IN "Tropo" FOLDER
 
     const GOLD = '#dba642'; // COLOR
