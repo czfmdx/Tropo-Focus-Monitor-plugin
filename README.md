@@ -1,5 +1,7 @@
 # Tropo-Focus-Monitor-plugin
-Plugin for FM-DX-WEBSERVER which monitors the status of improved tropo conditions with azimuth pointing based on realtime data from https://vhf.dxview.org/ 
+Plugin for FM-DX-WEBSERVER which monitors the status of improved tropo conditions
+with azimuth pointing based on realtime data from https://vhf.dxview.org/ 
+
 <img width="371" height="633" alt="34398" src="https://github.com/user-attachments/assets/9c2704bc-c784-4a3d-b449-8d7fa279691b" />
 
 CURRENT RELEASE V1.0a (1.2.2026)
